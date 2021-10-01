@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê 𝙏𝙞𝙩𝙖𝙣𝙞𝙪𝙢 𝙪𝙨𝙚𝙧ẞø† 🇮🇳</b>
+  <b>Thê 𝙏𝙞𝙩𝙖𝙣𝙞𝙪𝙢 𝙪𝙨𝙚𝙧ẞø† 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -92,7 +92,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-## HellBot Session
+## TITANIUMBot Session
 
 ### Repl
 - Open Repl Link.
