@@ -16,7 +16,7 @@ _repolink () {
         then
             echo "${TITANIUM_REPO}/archive/${TITANIUM_REPO_BRANCH}.zip"
         else
-            echo "${HELL_REPO}/archive/master.zip"
+            echo "${TITANIUM_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
@@ -30,16 +30,15 @@ start_bot () {
     echo "  Downloading source code ..."
     wget -q $(_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    HELLPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    TITANIUMPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "  Processing Codes..."
     rm -rf "$zippath"
     sleep 5
-    cd $HELLPATH
+    cd $TITANIUMPATH
     echo "  • Starting TITANIUMBot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m TITANIUMBot
-}
+    python3 -m userbot
 
 start_bot
