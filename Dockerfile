@@ -9,6 +9,6 @@ WORKDIR /root/Titaniumbot
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
-ENV PATH="/home/userbot/bin:$PATH"
+ENV PATH="/home/Titaniumbot/bin:$PATH"
 
 CMD ["python3","-m","Titaniumbot"]
