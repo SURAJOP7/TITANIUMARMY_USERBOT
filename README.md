@@ -30,7 +30,7 @@
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/AXEL_SUPPPORTXD)
 
 ------
-## Deploy 🚀
+## DEPLOY  🚀
 - [![Heroku](https://telegra.ph/file/1bd7d9d87995b57f60b5c.jpg)](#Deploy-To-Heroku)
 
 - [![Railway](https://telegra.ph/file/35716b59cc180e4f282a4.jpg)](#Deploy-on-Railway)
