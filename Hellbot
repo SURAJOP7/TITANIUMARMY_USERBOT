@@ -4,17 +4,17 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $HELL_REPO == "HellBot" ]]
+    if [[ $TITAJIUM_REPO == "TITANIUM_USERBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $HELL_REPO == "Hellbot" ]]
+    elif [[ $TITANIUM_REPO == "TITANIUM_USERBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $HELL_REPO =~ $regex ]]
     then
-        if [[ $HELL_REPO_BRANCH ]]
+        if [[ $TITANIUM_REPO_BRANCH ]]
         then
-            echo "${HELL_REPO}/archive/${HELL_REPO_BRANCH}.zip"
+            echo "${TITANIUM_REPO}/archive/${TITANIUM_REPO_BRANCH}.zip"
         else
             echo "${HELL_REPO}/archive/master.zip"
         fi
@@ -26,7 +26,7 @@ _repolink () {
 
 start_bot () {
     local zippath
-    zippath="myhellbot.zip"
+    zippath="mytitaniumbot.zip"
     echo "  Downloading source code ..."
     wget -q $(_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -36,10 +36,10 @@ start_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $HELLPATH
-    echo "  • Starting HellBot •  "
+    echo "  • Starting TITANIUMBot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m hellbot
+    python3 -m TITANIUM_USERBOT
 }
 
 start_bot
