@@ -144,13 +144,33 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ------
+ 
+
+### • ᴅᴇᴠᴇʟᴏᴘᴇʀ
+
+<a href="https://t.me/suraj_o_p"><img src="https://img.shields.io/badge/AXEL -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+
 ## Credits
 
-- 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
-- 👿HELL BOT AND MY RESPECTIVE OWNERS 
+- 🇮🇳 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- 🇮🇳HELL BOT AND MY RESPECTIVE OWNERS 
 
-- 💖 My Team Members For Supporting Me.
+- 🇮🇳 My Team Members For Supporting Me.
 
+
+
+
+
+
+
+
+
+
+
+
+
+- [SURAJOP7](https://github.com/SURAJOP7/TITANIUMARMY_USERBOT)
 ------
 
 ##  THANKS 🌹❤
