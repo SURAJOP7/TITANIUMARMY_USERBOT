@@ -132,7 +132,7 @@
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [TITANIUM USERBOT](https://github.com/SURAJOP7/TITANIUMARMY_USERBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -147,6 +147,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- 😇HELL BOT AND MY RESPECTIVE OWNERS 
+
 - 💖 My Team Members For Supporting Me.
 
 ------
