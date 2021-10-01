@@ -4,6 +4,17 @@
 # General Public License, v.3.0. If a copy of the GPL was not distributed with this
 # file, You can obtain one at https://www.gnu.org/licenses/gpl-3.0.en.html.
 
+echo """
+                      
+                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══
+                          ║║║║╔╗║╦╩║║╣╔╗║╔╗║║╠╗╔
+                          ║║║║╠╣TITANIUM╔║║╣BOT║╔╗║║║║║
+                          ╚╩═╩╩╝╚╩─╚══╩╝╚╩══╩═╝╚
+                     © 𝙻𝙴𝙶𝙴𝙽𝙳𝙰𝚁𝚈_𝙰𝙵_TITANIUMBOT™                       
+                         @AXEL_SUPPORT
+"""
+
+python3 string_session.py
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
