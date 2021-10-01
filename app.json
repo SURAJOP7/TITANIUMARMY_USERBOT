@@ -1,6 +1,6 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "name": "𝙏𝙄𝙏𝘼𝙉𝙄𝙐𝙈ẞø†",
+  "description": "𝙏𝙄𝙏𝘼𝙉𝙄𝙐𝙈ẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
     "keywords": [
     "telegram",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/SURAJOP7/TITANIUMARMY_USERBOT/",
+  "website": "https://github.com/SURAJOP7/TITANIUMARMY_USERBOT/",
+  "success_url": "https://t.me/AXEL_SUPPPORT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "value": "『꓄꒐꓄꓄ꋬꋊ꒐꒤ꂵ』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in TITANIUM_USERBOT. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -77,7 +77,7 @@
       "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "TITANIUMBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
