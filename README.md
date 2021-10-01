@@ -73,9 +73,9 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
+- Generate TITANIUMBOT SESSION.
 
-`python hell_string.py`
+`python `hell_string.py
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
 - Finally Start Hêllẞø† By
 
@@ -130,7 +130,7 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/SURAJOP7/TITANIUMARMY_USERBOT">The-HellBot</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/SURAJOP7/TITANIUMARMY_USERBOT">The-TITANIUMBot</a></h4>
 
 Project [TITANIUM USERBOT](https://github.com/SURAJOP7/TITANIUMARMY_USERBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -147,8 +147,11 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
-- 😇HELL BOT AND MY RESPECTIVE OWNERS 
+- 👿HELL BOT AND MY RESPECTIVE OWNERS 
 
 - 💖 My Team Members For Supporting Me.
 
 ------
+
+##  THANKS 🌹❤
+
