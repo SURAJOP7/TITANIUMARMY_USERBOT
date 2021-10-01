@@ -31,7 +31,7 @@
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://telegra.ph/file/e88ce29332ca7764ef7e6.jpg)](#Deploy-To-Heroku)
+- [![Heroku] (https://telegra.ph/file/1bd7d9d87995b57f60b5c.jpg)](#Deploy-To-Heroku)
 
 - [![Railway](https://telegra.ph/file/35716b59cc180e4f282a4.jpg)](#Deploy-on-Railway)
 
