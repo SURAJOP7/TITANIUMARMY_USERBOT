@@ -1,7 +1,7 @@
 {
   "name": "𝙏𝙄𝙏𝘼𝙉𝙄𝙐𝙈ẞø†",
-  "description": "𝙏𝙄𝙏𝘼𝙉𝙄𝙐𝙈ẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "description": "𝙏𝙞𝙩𝙖𝙣𝙞𝙪𝙢ẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/bdc6453d75f018842c1cc.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -31,7 +31,7 @@
     },
     "ALIVE_PIC": {
       "description": "Paste the telegraph link of a video/gif/pic to show on Alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/bdc6453d75f018842c1cc.jpg",
       "required": false
     },
     "ABUSE": {
