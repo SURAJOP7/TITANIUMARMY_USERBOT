@@ -26,7 +26,7 @@
     },
     "ALIVE_MSG": {
       "description": "Your Custom Alive Message to show on Alive.",
-      "value": "",
+      "value": "⚡ ʟɛɢɛռɖaʀʏ ᴀғ ᴛɪᴛᴀɴɪᴜᴍ ᴀʀᴍʏ⚡",
       "required": false
     },
     "ALIVE_PIC": {
