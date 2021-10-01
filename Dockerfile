@@ -1,7 +1,7 @@
 FROM teamvaders/hellbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/TheVaders/InVade.git /root/Titaniumbot
+RUN git clone https://github.com/SURAJOP7/TITANIUMCODE/.git /root/Titaniumbot
 
 #working directory 
 WORKDIR /root/Titaniumbot
