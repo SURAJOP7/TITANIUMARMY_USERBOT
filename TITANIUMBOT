@@ -4,13 +4,13 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $TITAJIUM_REPO == "TITANIUM_USERBOT" ]]
+    if [[ $TITANIUM_REPO == "TITANIUM_USERBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $TITANIUM_REPO == "TITANIUM_USERBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $HELL_REPO =~ $regex ]]
+    elif [[ $TITANIUM_REPO =~ $regex ]]
     then
         if [[ $TITANIUM_REPO_BRANCH ]]
         then
