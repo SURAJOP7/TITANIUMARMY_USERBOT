@@ -151,18 +151,12 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 <a href="https://t.me/suraj_o_p"><img src="https://img.shields.io/badge/AXEL -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
-## Credits
+## SPECIAL THANKS TO ❤
 
 - 🇮🇳 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
-- 🇮🇳HELL BOT AND MY RESPECTIVE OWNERS 
+- 🇮🇳HELL BOT AND RESPECTIVE OWNERS 
 
 - 🇮🇳 My Team Members For Supporting Me.
-
-
-
-
-
-
 
 
 
