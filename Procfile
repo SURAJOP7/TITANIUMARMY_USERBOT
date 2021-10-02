@@ -1,1 +1,1 @@
-worker: bash TITANIUMARMY_USERBOT
+worker: bash TITANIUMBOT
