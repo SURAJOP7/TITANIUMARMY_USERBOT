@@ -39,7 +39,7 @@ start_bot () {
     echo "  • Starting TITANIUMBot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m hellbot
+    python3 -m userbot
 }    
 
 start_bot
